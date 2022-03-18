@@ -4,10 +4,10 @@ Scripts for analyzing data from Eve, an automated high-throughput screening syst
 https://doi.org/10.1098/rsob.120158
 
 # scripts
-move_files.py
-robot_merge.py
-robot_growthcurves.R
-Eve_growthrates_multi.R
+move_files.py  
+robot_merge.py  
+robot_growthcurves.R  
+Eve_growthrates_multi.R 
 
 # 1. move_files.py (py3)
 
