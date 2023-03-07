@@ -1,6 +1,6 @@
 # Robotic_screen
 
-Scripts for analyzing data from Eve, an automated high-throughput screening system
+Scripts for analyzing data from the robot Eve, an automated high-throughput screening system
 https://doi.org/10.1098/rsob.120158
 
 # scripts
@@ -8,6 +8,10 @@ move_files.py
 robot_merge.py  
 robot_growthcurves.R  
 Eve_growthrates_multi.R 
+
+# data
+Merged growth measurements, one file per 384 well plate - this is the output from robot_merge.py
+Also included is one experiement with the raw data produced by the robot Eve
 
 # 1. move_files.py (py3)
 
