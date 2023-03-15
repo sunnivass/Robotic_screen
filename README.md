@@ -10,7 +10,8 @@ robot_growthcurves.R
 Eve_growthrates_multi.R 
 
 # data
-Merged growth measurements, one file per 384 well plate - this is the output from robot_merge.py  
+Merged growth measurements, one file per 384 well plate - this is the output from robot_merge.py 
+Yield from all runs  
 Also included is one experiement with the raw data produced by the robot Eve
 
 # 1. move_files.py (py3)
