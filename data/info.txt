@@ -1,3 +1,3 @@
 ## merged/ contains the output from robot_merge.py where all measurements for each plate are combined columnwise  
 ## raw/ contains the raw output of one experimental plate from the robot Eve, 2 filetypes were created for each time of measurement  
-## yield/ contains a cleaned output from growthcurves_multi.R  
+## yield/ contains a cleaned output from Eve_growthcurves_multi.R  
