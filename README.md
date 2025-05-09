@@ -1,7 +1,7 @@
 # Robotic_screen
 
 Scripts for analyzing data from the robot Eve, an automated high-throughput screening system
-https://doi.org/10.1098/rsob.120158
+Data in this repository was published in https://journals.asm.org/doi/10.1128/spectrum.01249-24
 
 # scripts
 move_files.py  
